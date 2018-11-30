@@ -2,11 +2,11 @@ Makefile
 Makefile.old
 *.tar.gz
 *.bak
-*.cmd
+*.swp
 pm_to_blib
 blib/
-Net-Fritz-Phonebook-*
-Net-Fritz-Phonebook-*/
+App-Fritz-Import-CardDAV-*
+App-Fritz-Import-CardDAV-*/
 .releaserc
 cover_db
 MYMETA.*
