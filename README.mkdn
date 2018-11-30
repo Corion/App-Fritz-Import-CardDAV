@@ -1,0 +1,7 @@
+
+[![Travis Build Status](https://travis-ci.org/Corion/App-Fritz-Import-CardDAV.svg?branch=master)](https://travis-ci.org/Corion/App-Fritz-Import-CardDAV)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Corion/App-Fritz-Import-CardDAV?branch=master&svg=true)](https://ci.appveyor.com/project/Corion/App-Fritz-Import-CardDAV)
+
+# NAME
+
+App::Fritz::Import::CardDAV - contact import scripts for the Fritz!Box
